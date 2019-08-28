@@ -6,12 +6,50 @@ This project aims to be a showcase for Couchbase Partner integrations. Each inte
 
 ## Use Cases
 
-TBD
+
+Services
+
+- Session management
+- User profile
+- Product catalog & inventory
+- Search
+- Shopping Cart
+- Recommendations
+
+Back Office Features
+
+- Customer 360
+- Catalog analytics
+- Search analytics
+
+Machine Learning (potential applications)
+
+- Collaborative filtering for recommendations
+- Graph analysis for recommendations
+- Product classification
+- Customer segmentation
+
+
+
+
+
+
 
 ## Data Set
 
-TBD
+Options being explored:
+
+- [Movie Lens](https://grouplens.org/datasets/movielens/)
+- [IMDB](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Technologies
 
-TBD
+Full list TBD
+
+- Couchbase
+- OpenShift
+- Kafka
+- Spark
+- Neo4j
+- Ionic
+- CData
