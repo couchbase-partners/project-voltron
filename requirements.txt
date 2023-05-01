@@ -2,7 +2,7 @@ astroid==2.3.2
 attrs==19.3.0
 Click==7.0
 couchbase==2.5.8
-Flask==1.1.1
+Flask==2.3.2
 Flask-Cors==3.0.8
 Flask-Script==2.0.6
 importlib-metadata==0.23
